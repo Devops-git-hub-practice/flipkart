@@ -1,4 +1,6 @@
-add   
-     .classpath
-     .settings
-     /node_modules
+add 
+.classpath 
+.settings
+.bgms
+.mgbs
+/node_modules
